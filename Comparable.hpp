@@ -1,0 +1,8 @@
+//
+// Created by maxdg on 2/12/2025.
+//
+
+#ifndef ASSIGNMENT_COMPARABLE_HPP
+#define ASSIGNMENT_COMPARABLE_HPP
+
+#endif //ASSIGNMENT_COMPARABLE_HPP
